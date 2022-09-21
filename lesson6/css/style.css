@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+
+
+.head {
+   max-width: 810px;
+   margin: 0 auto 50px auto;
+   
+}
+.content {
+   max-width: 810px;
+   margin: 0 auto;
+}
+
+.main_header {
+   font-size: 46px;
+   font-family: Lato;
+   font-weight: 900;
+   color: #1E212C;
+   line-height: 130%;
+   padding-top: 50px;
+}
+.photo img {
+   max-width: 100%;
+}
+.photo {
+   margin-bottom: 60px;
+}
+.text_main, .text_main_two{
+   font-family: 'Lato';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 20px;
+   line-height: 150%;
+   color: #1E212C;
+}
+.text_main {
+   margin-bottom: 24px;
+}
+.text_one, .text_two, .text_three, .text_item, .text_four{
+   font-family: 'Lato';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 160%;
+   color: #424551;
+}
+.text_one {
+   margin-bottom: 24px;
+}
+.text_two {
+   margin-bottom: 48px;
+}
+.text_main_two {
+   margin-bottom: 48px;
+   padding-left: 48px;
+}
+.text_three {
+   margin-bottom: 24px;
+}
+.text_item {
+   margin-bottom: 4px;
+}
+.text_list {
+   margin-bottom: 24px;
+   padding-left: 32px;
+}
+.text_four {
+   padding-bottom: 50px;
+}
+
+
+
+
+/* exprement------------------------------ */
+
+
+.over {
+   max-width: 500px;
+   max-height: 100px;
+   overflow: scroll;
+   background-color: #008080	;
+   margin-bottom: 50px;
+}
+
+.block a {
+   display: block;
+   max-width: 300px;
+   background-color:#FF6347;
+   margin: 10px auto;
+   padding: 20px;
+   border-bottom: 2px dashed #00FF00;
+   border-top: 2px dotted #0000FF;
+   border-radius: 10px;
+   
+   
+}
+.block {
+   margin: 0 auto 50px;
+   border: 3px solid #800000;
+   max-width: 400px;
+   padding: 20px;
+   background-color:#EE82EE;
+   border-radius: 20px;
+}
+.butt_shadow {
+   max-width: 400px;
+   margin: 0 auto 50px;
+}
+.button {
+   display: inline-block;
+   width: 150px;
+   padding: 20px;
+   margin-right: 30px;
+   background-color:#008080;
+   border: 1px solid;
+   border-radius: 72px 11px 150px 11px;
+   -webkit-border-radius: 72px 11px 150px 11px;
+   -moz-border-radius: 72px 11px 150px 11px;
+   box-shadow:5px 5px 0px 5px #2F4F4F;
+   opacity: 0.7;
+	
+
+}
+.button_two {
+   display: none;
+}
+.button_three {
+   visibility: hidden;
+}
+.butt_shadow_two {
+   outline: 5px solid red;
+}
