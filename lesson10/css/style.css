@@ -52,7 +52,7 @@ body{
    height: 20px;
    margin-right: 30px;
    margin-left: -58px;
-   background: url(img/braces.svg) 0 0 no-repeat;
+   background: url(/img/braces.svg) 0 0 no-repeat;
 }
 .page__list {
    font-size: 16px;
@@ -124,7 +124,7 @@ body{
    height: 16px;
    margin-right: 16px;
    margin-left: -32px;
-   background: url(img/check.svg) 0 0 no-repeat;
+   background: url(/img/check.svg) 0 0 no-repeat;
    vertical-align: middle;
 }
 .nextpage__list li:not(:last-child){
@@ -310,7 +310,7 @@ body{
    width: 16px;
    height: 16px;
    margin-right: 8px;
-   background: url(img/Star.svg) 0 0 no-repeat;
+   background: url(/img/Star.svg) 0 0 no-repeat;
    vertical-align: middle;
 }
 .feedback::before {
@@ -319,7 +319,7 @@ body{
    width: 16px;
    height: 16px;
    margin-right: 8px;
-   background: url(img/shape.svg) 0 0 no-repeat;
+   background: url(/img/shape.svg) 0 0 no-repeat;
    vertical-align: middle;
 }
 .library::before {
@@ -328,7 +328,7 @@ body{
    width: 16px;
    height: 16px;
    margin-right: 8px;
-   background: url(img/com.svg) 0 0 no-repeat;
+   background: url(/img/com.svg) 0 0 no-repeat;
    vertical-align: middle;
 }
 .community::before {
@@ -337,7 +337,7 @@ body{
    width: 16px;
    height: 16px;
    margin-right: 8px;
-   background: url(img/Vector.svg) 0 0 no-repeat;
+   background: url(/img/Vector.svg) 0 0 no-repeat;
    vertical-align: middle;
 }
 .tutors__box {
